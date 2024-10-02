@@ -56,9 +56,9 @@ Here are a few ideas for future improvements:
 ## Author
 Vineet Verma
 
-Hi! I'm currently pursuing my Bachelors of Technology in Artificial Intelligence & Machine Learning (AIML), i'm passionate about coding and learning new programming languages.
-GitHub: Vineet-Verma22
-Feel free to contribute or suggest enhancements!
+* Hi! I'm currently pursuing my Bachelors of Technology in Artificial Intelligence & Machine Learning (AIML), i'm passionate   about coding and learning new programming languages.
+* GitHub: Vineet-Verma22
+* Feel free to contribute or suggest enhancements!
 
 ---
 
