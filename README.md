@@ -29,8 +29,8 @@ To run this program on your local machine, follow these steps:
    ```bash
    ./guess_the_random_number
 
-5. Gameplay: The program will ask you to input a guess. Based on your input, it will tell you whether the random number is   
-   higher or lower, until you guess it correctly. It will also display the number of attempts at the end.
+5. Gameplay:
+   The program will ask you to input a guess. Based on your input, it will tell you whether the random number is higher or lower, until you guess it correctly. It will also display the number of attempts at the end.
 
 ## Code Explanation
 The main logic behind this program is fairly simple:
