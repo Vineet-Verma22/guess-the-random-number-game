@@ -68,8 +68,6 @@ Feel free to contribute or suggest enhancements!
 - **Install GCC**: If the user doesn't have a C compiler, provide instructions on installing GCC on various platforms.
 - **Exit the game**: For clarity, mention that the program exits automatically after the user wins.
 
-Let me know if you'd like more steps or adjustments!
-
 ---
 
 ### Explanation of the Sections:
