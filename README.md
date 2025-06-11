@@ -1,6 +1,4 @@
-zx
-cs
-d# Guess the Random Number Game
+# Guess the Random Number Game
 
 ## Description
 This repository contains my C programming project called **Guess the Random Number**. In this game, the user tries to guess a randomly generated number between 0 and 999. The program will guide the user by indicating if the guessed number is higher or lower than the randomly generated number, until the correct number is guessed. The number of attempts is also counted and displayed at the end of the game.
